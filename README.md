@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashc0912" alt="yashc0912" /></a> </p> -->
 
-- 🔭 I’m currently working on [Blog Application APIs](https://github.com/yashc0912/blog-app-apis.git)
+- 🔭 I’m currently working on [Spring-Security-App](https://github.com/yashc0912/Spring-Security-App)
 
 - 🌱 I’m currently learning **Spring, Spring Boot, React and Azure**
 
